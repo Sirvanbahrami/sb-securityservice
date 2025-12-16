@@ -231,7 +231,7 @@ header {
 }
 h1 {
 	float:left;
-	margin:46px 0 0 42px;
+    margin: 10px 0 -7px 0px;
 }
 .slogan {
 	float:left;
@@ -254,7 +254,7 @@ h1 {
 .nav-shadow {
 	background:url(../images/nav-shadow.png) 0 0 no-repeat;
 	padding-top:10px;
-	margin:24px 0px 0px 0px;
+	margin:4px 0px 0px 0px;
 	position:relative;
 	z-index:100;
 }
